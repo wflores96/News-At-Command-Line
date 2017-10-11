@@ -1,0 +1,6 @@
+# python linking
+*.pyc
+
+# IDE
+.vscode
+.idea
